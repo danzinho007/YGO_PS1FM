@@ -1,0 +1,136 @@
+Aqua :
++ Fiend = SIM
+Aqua + Machine = não
+Aqua + Pyro = não
+Aqua + Spellcaster = Spell 1500/600
+
+Beast 
+(-) + Aqua = Não
++ Fairy = Fairy 1550/1650
+Beast + Machine = Machine 1200/1400
+(-) + Warrior = BestWarr 1300/1100
+Beast (-500) + Zombie (-500) = Zomb 500/200
+
+Dino 
++ Fairy = 1800/1500
+Dino + Spell = Não
+
+Dragão + Beast = Dragão 1500/
+Dragão + Dino = Dino 1750/2030
+Dragao + Fairy = Fairy 1800
+Dragão + Machine = 1850/1700
+Dragão + Pyro = Pyro 1500/1000
+Dragão + Spellcaster = não
+Dragão + Warrior = War 1100/900
+
+Dinosaur :
++ Fiend = Não
+
+Fairy
+Fairy + Aqua = não
+Fairy + Beast = Fairy 1500/1650
+Fairy + Dino = não
+Fairy + Machine = não
++ Spellcaster = Fairy 1600 ( ??? )
+Fairy + Warrior = Warrior 1400/1200
+Fairy + WingedBeast 1100/1000 = WB-1600/2000
+
+Fiend
+(-) + Aqua = Não
++ Dragon = Dragon 1500/800
+(-) + Warrior = Não 
+(-) + (-)Zombie = Zombie 500/200
+
+Insect 
+(-) + Aqua = Não
+(-) + Fiend = Não
++ Machine = não
+Insect + Reptile = não
+(-) + Rock = Não
+(-) + (-)Speellcaster = Não
+(-) + Warrior = Insect 800/900
+Insect + Winged Beast = Insect 1500
+(-) + (-)Zombie = Não
+
+Machine + Beast = Machine 1200/1400
+Machine + Dino = Machine 1800/
+Machine + Dragão = Dragão 1800
+Machine + Warrior = 1750/1900
+Machine + Zombie =  não
+
+Plant :
+(-) + Insect(1k+) = 
++ Warrior + Zombie = Zombie 1800/2000
+(-) + (-)Zombie = Zombie 1000/900
+
+Pyro + Beast = Beast 1800
+Pyro + Dino = 1800//
+Pyro + Fairy = Fairy 1500/1900
+Pyro + Machine = Machine 2100/2300
+Pyro + Reptile = Pyro 1700
+Pyro + Spellcaster = Pyro 1500/1600
+Pyro + Warrior = Warrior 1800
+Reptile x/1600 + Fairy = não
+
+Rock
++ Aqua = Aqua 1450/2200
++ Fiend = Não
++ Plant = Não
++ Warrior = Rock 1300/1200
+
+Spellcaster :
+Spellcaster + Beast = não
+Spallcaster + Dino = não
+Spellcaster + Fairy = Fairy 1600/1200
+(-) + Fiend = Não
+Spellcaster + Machine = não
++ Plant = Não
+Spellcaster + Reptile = não
+(-) + Warrior = Não
++ Warrior = Spellcaster 1400/1700
+Spellcaster + Winged-Beast = não
+
+Warrior :
++ Aqua = Não
++ Beast = Warrior 1600/1200
++ Dino = não
++ Dragão = não
+Warrior + Dragon(War1100) + Fiend = Zombie 1600 !!!
+(-) + Dragão = Warrior 1100/900
+Warrior + Fairy = Warrior 1400
+Warrior(-) + Fairy = Fairy 1800/1700
++ Fiend = Não
+(-) + Fiend = Pyro 1100/800
++ Insect = não
++ Insect(+1k) = Não
+Warrior + Machine = Machine 1750/1900 
+(-) + Plant = Plant 1400/1300
+Warrior + Reptile = Reptile 1800/1000
+(-) + Rock = Rock 1300/1200
++ Spellcaster = não
+Warrior + Winged Beast = não
+(-) + (-/+) Zombie = Zombie 1200/900
+
+Winged + Zombie = Skullbird 1500/1800
+
+Zombie
++ Aqua = não
++ Beast = Beast 1350/2000
+Zombie + Dragão = Zombie 160
+Zombie(-) + Fairy = Não
+(-) + Fiend = Não
+Zombie + Plant = Zombie 1000/900
+Zombie + Reptile = 
+(-) + Rock = Rock 1200/1000
+zombie + Speellcaster = não
+(-) + Warrior(-/+) = Zombie 1200
+
+Zombie + Winged Beast = Winged 1900/1700
+(-)+ Zombie(-) = Não
+
+Insect + Spell + Plant + Aqua = Não
+Fiend + Plant + Warrior + Zombie = 
+Warrior + Aqua + Fiend + Fiend + Insect
+Warrior + Dragon + Fiend + Zombie + Insect
+Zombie + Dino + Fiend + Dragão 
+Zombie + Rock + Fiend + Insect 
